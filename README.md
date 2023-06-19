@@ -1,2 +1,3 @@
-# scrap_senti
-Web scraping youtube comments, and then doing sentiment analysis
+# Youtube comments sentiment analysis
+
+Web scraping youtube comments using YouTube API, and then doing sentiment analysis
